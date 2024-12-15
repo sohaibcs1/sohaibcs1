@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sohaibcs1&theme=flat&no-bg=true&no-frame=true&margin-w=15&column=8)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sohaibcs1&theme=dracula&no-frame=true&margin-w=15&column=8)
 
 </div>
 
