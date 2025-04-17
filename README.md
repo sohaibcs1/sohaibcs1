@@ -1,18 +1,17 @@
-# 🏆 My GitHub Achievements
+# 💻 My Technical Skills
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sohaibcs1&theme=dracula&no-frame=true&margin-w=15&column=8)
+| 🚀 **Category**          | 🧠 **Skills**                                                                                      |
+|-------------------------|---------------------------------------------------------------------------------------------------|
+| **Programming Languages** | Python, C++, R, JavaScript, Java, PHP, Node.js, Vue.js, XML, JSON, HTML, CSS                     |
+| **Frameworks & Tools**    | PyTorch, TensorFlow, Vertex AI, Transformers, Scikit-learn, MLFlow, Flask, Django, Quasar, WebSockets, Jupyter Notebooks, MATLAB, Bioformats, VTK (Kitware) |
+| **Libraries**             | Pandas, NumPy, Hugging Face (🤗 Transformers), RAG                                                |
+| **Technologies**          | Docker, Git, CUDA, Google Cloud Platform (GCP)                                                   |
+| **Databases**             | PostgreSQL, SQL, NoSQL, Firebase Realtime Database                                               |
 
 </div>
 
 ---
 
-### 🌟 Highlights
-- **Commits:** Hyper Committer  
-- **Repositories:** Super Repo Creator  
-- **Pull Requests:** Hyper Puller  
-- **Stars:** Super Stargazer  
-- **Followers:** Ultra Celebrity  
-
-⭐ **Fun Fact:** I actively contribute across **multiple languages** and open-source projects!  
+✨ *I'm passionate about building intelligent systems, working across full-stack architectures, and contributing to open-source research and medical imaging projects.*
