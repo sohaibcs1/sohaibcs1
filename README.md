@@ -14,4 +14,4 @@
 
 ---
 
-> ✨ *I'm passionate about building intelligent systems, working across full-stack architectures, and contributing to open-source research and medical imaging projects.*
+> ✨ *I'm passionate about developing intelligent systems, AI and machine learning frameworks, and contributing to impactful open-source research projects.*
