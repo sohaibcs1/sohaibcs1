@@ -1,4 +1,4 @@
-# 💻 My Technical Skills
+# My Technical Skills
 
 <div align="center">
 
